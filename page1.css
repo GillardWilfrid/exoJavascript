@@ -1,0 +1,43 @@
+.row1col1 { 
+           padding:10px; 
+           background-color: yellow;}
+.row1col2 {
+           padding:10px; 
+           background-color: yellow;}
+
+.row2col1 {padding:10px;
+            background-color: blue;}
+.row2col2 {padding:10px;
+           background-color: blue;}
+.row2col3 {padding:10px;
+           background-color: blue;}
+.row2col4 {padding:10px;
+           background-color: blue;}
+
+.row3col1 {padding:10px;
+           background-color: red;}
+.row3col2 {padding: 10px;
+           background-color: red;}
+
+.row4col1 {padding: 10px;
+           background-color: green;}
+.row4col2  {padding: 10px;
+            background-color: green;}
+.row4col3 {padding: 10px;
+           background-color: green;}
+
+.row5col1 {padding: 10px;
+           background-color: grey;}
+
+.row6col1 {padding: 10px;
+            background-color: yellow;}
+
+.row7col1 {padding: 10px;
+           background-color: blue;}
+
+.row8col1 {padding: 10px;
+           background-color: red;}
+.row8col2 {padding: 10px;
+           background-color: red;}
+
+.row {margin-bottom: 5px;}
